@@ -1,0 +1,3 @@
+https://uk.finance.yahoo.com/quote/0P0000KM24.L/history/?period1=1388649600&period2=1753110984&frequency=1mo
+https://uk.finance.yahoo.com/quote/IGUS.L/
+https://uk.finance.yahoo.com/quote/IGWD.L/history/?frequency=1mo&period1=1285830000&period2=1753112510
