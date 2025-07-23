@@ -1,0 +1,1 @@
+Welcome to my looking into investment portfolios and various investment methods and practices. This project was born out of curiosity to see the best investment practices for myself and to test ideas and questions many take for granted.
