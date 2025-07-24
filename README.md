@@ -4,4 +4,4 @@ The analysis is split into two parts:
 1 - Diverse Portfolios - with Stocks (in S&P 500 and/or World Index Tracker ETF), bonds and cash.
 2 - World Indicies - focusing on Equity only via 4 Major World indicies.
 
-Findings on to topic of Investment frequency are shown in the pdf: Investment Frequency Power BI
+Findings on Inveestment Frequency, Portfolio Allocation, and Yearly Rebalancing are collated in the Power BI Dashboard PDF.
